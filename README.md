@@ -1,5 +1,5 @@
 # cabals
-a list of public cabals
+a list of public cabals, feel free to update the list by making a [pull request](https://github.com/cabal-club/cabals/pulls)!
 
 ### active cabals
 * public cabal for [cabal-club](https://github.com/cabal-club/)    `dat://59813e3169b4b2a6d3741b077f80cce014d84d67b4a8f9fa4c19605b5cff637f`
