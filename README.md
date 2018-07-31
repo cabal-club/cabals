@@ -2,7 +2,8 @@
 a list of public cabals, feel free to update the list by making a [pull request](https://github.com/cabal-club/cabals/pulls)!
 
 ### active cabals
-* public cabal for [cabal-club](https://github.com/cabal-club/)    `dat://59813e3169b4b2a6d3741b077f80cce014d84d67b4a8f9fa4c19605b5cff637f`
+* public cabal for [cabal-club](https://github.com/cabal-club/) `dat://7d99b453506b9743bf5e71fe749f66c814d7cd9388a5d394a27eed4c5640302b`    
 
 ### deprecated cabals
 * previous cabal-club instance `dat://21b2b9ff201b01e6081709d82e6b81a5cf3a68d2cd5f092d0ffec58772642892` (broken due to a bug)
+* another defunct instance: `dat://59813e3169b4b2a6d3741b077f80cce014d84d67b4a8f9fa4c19605b5cff637f`
