@@ -3,6 +3,7 @@ a list of public cabals, feel free to update the list by making a [pull request]
 
 ### Active cabals
 * Cabal Club Community Cabal: check [cabal.chat](https://cabal.chat) for the latest key
+* Tod Robbins: [cabal://todrobbins.com](cabal://todrobbins.com)
 
 ### Deprecated cabals
 * Cabal Club: `cabal://a1efbe73cb1499e6932b603e0a59341b4399f5c789bd6c5d7746888204265cc2`
