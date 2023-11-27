@@ -3,6 +3,7 @@ a list of public cabals, feel free to update the list by making a [pull request]
 
 ### Active cabals
 * Cabal Club Community Cabal: check [cabal.chat](https://cabal.chat) for the latest key
+* cf84b (English + Globasa): `cabal://cf84b32d261070951d5b7a06b7667f210ce605776dda5508ea6b9e9eed5439b0`
 * Cabal Club Book Club: `cabal://8551bb4e890771e369f0d9404e5b923ba4d346e57d1b126b4c5efad40bb99258`
 * Tod Robbins: `cabal://todrobbins.com` or `cabal://6ce8ea244f6110d613f6beeef105cbaeddefcc1642a738cc901cbc6f1ac127ea`
 * Linkping hackerspace: `cabal://linkping.org`
